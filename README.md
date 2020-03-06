@@ -5,3 +5,4 @@
 - Rafael Gonçalves dos Reis
 - Cleydson José de Figueiredo Júnior
 - Pedro Basílio de Camargo Neto
+- Rhadá Costa
