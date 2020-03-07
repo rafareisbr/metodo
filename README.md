@@ -1,6 +1,10 @@
-# Repositório para o Métodos e Ferramentas de Software
+# Repositório para a disciplina Métodos e Ferramentas de Software
 
-### Grupo
+Disciplina - Engenharia de Software
+
+Matéria - Métodos e Ferramentas de Software
+
+Grupo - 2
 
 - Rafael Gonçalves dos Reis
 - Cleydson José de Figueiredo Júnior
