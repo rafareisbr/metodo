@@ -9,4 +9,4 @@ Grupo - 2
 - Rafael Gonçalves dos Reis
 - Cleydson José de Figueiredo Júnior
 - Pedro Basílio de Camargo Neto
-- Rhadá Costa
+- Augusto Borges de Moura
